@@ -4,13 +4,13 @@ Etapa 1:
     3.Resuelto
     4.Resuelto
     5.Resuelto
-    6.En proceso...
-    7.No Resuelto
-    8.No Resuelto
-    9.No Resuelto
-    10.No Resuelto
-    11.No Resuelto
-    12.No Resuelto
+    6.Resuelto
+    7.Resuelto
+    8.Resuelto
+    9.Resuelto
+    10.Resuelto
+    11.Resuelto
+    12.Resuelto
 Etapa 2:
     1.No Resuelto
     2.No Resuelto
