@@ -12,11 +12,11 @@ Etapa 1:
     11.Resuelto
     12.Resuelto
 Etapa 2:
-    1.No Resuelto
-    2.No Resuelto
-    3.No Resuelto
-    4.No Resuelto
-    5.No Resuelto
+    1.Resuelto
+    2.Resuelto
+    3.Resuelto
+    4.Resuelto
+    5.Resuelto
     6.No Resuelto
     7.No Resuelto
     8.No Resuelto
